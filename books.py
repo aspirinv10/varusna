@@ -8,7 +8,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.enums import ParseMode
 
 # ============ НАСТРОЙКИ ============
-BOT_TOKEN = "9153150248:AAGFYd2in0nEYXA0r8m6GKuD-UvGo45xBm8"
+BOT_TOKEN = ""
 OWNER_ID = 8777292199  # ← Твой Telegram ID
 
 bot = Bot(token=BOT_TOKEN)
